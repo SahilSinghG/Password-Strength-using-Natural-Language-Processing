@@ -31,6 +31,7 @@ Column	Description
 password	The password text
 strength	Label indicating password strength
 Strength Labels
+
 Value	Meaning
 0	Weak
 1	Medium
@@ -157,19 +158,28 @@ Clone the repository
 git clone https://github.com/SahilSinghG/Password-Strength-using-Natural-Language-Processing.git
 
 Install dependencies
+
 pip install -r requirements.txt
+
 Run the Streamlit application
+
 streamlit run app/app.py
 
 The application will open in your browser.
 
 ## 🛠️ Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Streamlit
+
 Matplotlib
+
 Seaborn
 
 ## 📌 Key Skills Demonstrated
